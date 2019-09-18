@@ -1,0 +1,15 @@
+
+					9		15		25		50		
+
+	  Simple Algorithm
+        Grid Cells Visited		1303		8108		27579		185866		
+Dictionary Entries Checked		10		20		30		50		
+             Load Time (s)		0.0006068		0.0007348		0.0012081		0.0024999		
+            Solve Time (s)		0.0002356		0.0009861		0.0033191		0.0198463		
+
+
+	Advanced Algorithm
+        Grid Cells Visited		1303		8108		27579		185866		
+Dictionary Entries Checked		10		20		30		50		
+             Load Time (s)		0.0006068		0.0007348		0.0012081		0.0024999		
+            Solve Time (s)		0.0002356		0.0009861		0.0033191		0.0198463		
